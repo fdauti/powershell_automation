@@ -1,0 +1,6 @@
+"PSComputerName","Name","PrimaryPartition","Size"
+"localhost","Disk #0, Partition #0","True","0"
+"localhost","Disk #0, Partition #1","True","237"
+"localhost","Disk #0, Partition #2","False","1"
+"localhost","Disk #0, Partition #3","False","1"
+"localhost","Disk #1, Partition #0","True","238"
